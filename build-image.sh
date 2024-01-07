@@ -13,7 +13,5 @@ docker build -t java-docker --target test .
 # for removing image/tag
 # docker rmi java-docker:v1.0.0
 
-
-
 #set the origin of this repository to the test-repository with the ci/cd actions enabled
 #git remote set-url origin https://github.com/ivakis/pet-clinic.git
